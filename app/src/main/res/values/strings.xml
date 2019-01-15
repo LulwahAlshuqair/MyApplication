@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lulu_s_first">Lulu\'s FIRST!</string>
+    <string name="edit_msg">Enter Your Name</string>
+    <string name="btn_send">Send</string>
+</resources>
